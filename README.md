@@ -39,17 +39,17 @@ Currently exploring **Generative-AI** to drive innovation.
 
 ## 🛠 Technical Skills  
 
-#### 🧹  Data Cleaning & Transformation  : → **Excel | Power Query | Python (Pandas, NumPy)**
-##### 📊  Data Visualization & Reporting  : **→ Power BI | Tableau | Matplotlib | Seaborn**
-##### 📈  Analytics & Insights   :  **→ Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting**
-##### 🗄  Database & Querying   :   →  **SQL → (MySQL Database)**
-##### ⚡  Other Tools  :  →  **Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving**  
+* 🧹  Data Cleaning & Transformation  :  Excel | Power Query | Python (Pandas, NumPy)
+* 📊  Data Visualization & Reporting  : Power BI | Tableau | Matplotlib | Seaborn
+* 📈  Analytics & Insights   :  Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting
+* 🗄  Database & Querying   :  SQL → (MySQL Database)
+* ⚡  Other Tools  :  Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving 
 
 ## 📜 Certifications
 
-🎯 Udemy :→ Data Analysis and Data Vizualization with **Microsoft Copilot**   
-🎯 IBM Cognitive Class :→ **Data Analysis with Python**  
-🎯 Udemy :→ **MySQL Database** 
+🎯 Udemy : Data Analysis and Data Vizualization with Microsoft Copilot   
+🎯 IBM Cognitive Class : Data Analysis with Python        
+🎯 Udemy : MySQL Database
 
 ## 🚀 Projects  
 <h3>
