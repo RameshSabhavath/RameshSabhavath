@@ -84,14 +84,14 @@ Currently exploring **Generative-AI** to drive innovation.
 • Showcased expertise in Python, SQL, and ETL workflows, highlighting strong problem-solving and analytical skills.
   
 <h3>
-  <a href="https://github.com/RameshSabhavath/Python-Projects/tree/main/2.%20Medical%20Insurance%20Cost%20Prediction">
-    ➩4️⃣ 🚀 Medical Insurance-Cost-Analysis
+  <a href="https://github.com/RameshSabhavath/Excel-Projects/tree/main/1.%20Electronic%20Sales%20Performance%20Dashboard">
+    ➩4️⃣ 🚀 Electronic Sales Performance Dashboard
   </a>
 </h3>
 
-• Performed data cleaning, preprocessing, and exploratory analysis on medical insurance datasets using powerful Python Libraries.   
-• Applied descriptive statistics and visualizations to uncover cost-driving factors.    
-• Built and evaluated Linear & Ridge Regression models with Scikit-learn, enhancing prediction accuracy and identifying key variables influencing insurance charges.
+• Conducted end-to-end retail performance analysis of 1,036 transactions (₹17.86M revenue) to evaluate product, seller, and trend KPIs.            
+• Built an interactive dashboard using Advanced Excel, Pivot Tables, and Pivot Charts for structured analysis and visualization.           
+• Enabled data-driven decisions by identifying revenue concentration, seller gaps, and short-term performance trends.
 
   #### 🎯 **Click here to explore more of my 👉🏻       [PROJECTS ↗](https://github.com/RameshSabhavath?tab=repositories)**
 
