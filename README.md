@@ -12,22 +12,22 @@
 I am a data-driven professional, specializing in **Business Intelligence, Data Engineering & Analytics**, Skilled in transforming data into insights, building impactful dashboards, and optimizing workflows to support strategic decisions.  
 Currently exploring **Generative-AI** to drive innovation.
 
-**<a href="https://www.linkedin.com/in/ramesh-sabhavath-3a0039387" target="_blank">
+**<a              href="https://www.linkedin.com/in/ramesh-sabhavath-3a0039387" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" 
        alt="LINKEDIN"
        height="40"
-       width="20%" />
-</a>**                     <a href="https://github.com/RameshSabhavath" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-100000?style=flat-square&logo=github&logoColor=white" 
-       alt="GITHUB"
-       height="40"
        width="19%" />
-</a>            <a href="mailto:rameshsabhavath124@gmail.com" target="_blank">
+</a>**                      **<a href="mailto:rameshsabhavath124@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" 
        alt="GMAIL"
        height="39"
-       width="19%" />
-</a>   
+       width="18%" /> 
+</a>**            **<a href="https://github.com/RameshSabhavath" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-100000?style=flat-square&logo=github&logoColor=white" 
+       alt="GITHUB"
+       height="40"
+       width="18%" />
+</a>**   
 
 
 ## 📌 What I Do 
@@ -37,23 +37,23 @@ Currently exploring **Generative-AI** to drive innovation.
 • Build interactive dashboards for reporting and business intelligence
 
 
-# 🛠 Technical Skills  
+## 🛠 Technical Skills  
 
 #### 🧹  Data Cleaning & Transformation  : → **Excel | Power Query | Python (Pandas, NumPy)**
-#### 📊  Data Visualization & Reporting  : **→ Power BI | Tableau | Matplotlib | Seaborn**
-#### 📈  Analytics & Insights   :  **→ Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting**
-#### 🗄  Database & Querying   :   →  **SQL → (MySQL Database)**
-#### ⚡  Other Tools  :  →  **Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving**  
+##### 📊  Data Visualization & Reporting  : **→ Power BI | Tableau | Matplotlib | Seaborn**
+##### 📈  Analytics & Insights   :  **→ Descriptive Statistics | Diagnostic Analysis  | Predictive Modeling and Trend Forecasting**
+##### 🗄  Database & Querying   :   →  **SQL → (MySQL Database)**
+##### ⚡  Other Tools  :  →  **Advanced Excel | DAX |  VBA, Power Query, Pivot Tables | Statistics | Problem-Solving**  
 
-# 📜 Certifications
+## 📜 Certifications
 
 🎯 Udemy :→ Data Analysis and Data Vizualization with **Microsoft Copilot**   
 🎯 IBM Cognitive Class :→ **Data Analysis with Python**  
 🎯 Udemy :→ **MySQL Database** 
 
-# 🚀 Projects  
+## 🚀 Projects  
 <h3>
-  <a href="https://github.com/RameshSabhavath/Quantitative-Trade-Data-Analytics-with-Python">
+  <a href="https://github.com/RameshSabhavath/Python-Projects/tree/main/1.%20Quantitative%20Trade%20Data%20Analytics">
     ➩1️⃣ 🚀  End-to-End Quantitative Trade Analytics with Python
   </a>
 </h3>
@@ -63,7 +63,7 @@ Currently exploring **Generative-AI** to drive innovation.
 • Focused on evaluating trades, symbols, and time-based performance to support quantitative decision-making.
 
 <h3>
-  <a href="https://github.com/RameshSabhavath/Pizza_Sales_Analysis_using_SQL">
+  <a href="https://github.com/RameshSabhavath/SQL-Projects/tree/main/3.%20Pizza%20Sales%20Analysis%20Project">
     ➩2️⃣ 🚀 Pizza Sales Analysis Project – MySQL
   </a>
 </h3>
@@ -73,7 +73,7 @@ Currently exploring **Generative-AI** to drive innovation.
 • Generated actionable insights to support pricing, marketing, and inventory strategies.
   
 <h3>
-  <a href="https://github.com/RameshSabhavath/RetailOrder_Sales_Analysis_using_Python-MySQL">
+  <a href="https://github.com/RameshSabhavath/SQL-Projects/tree/main/2.%20RetailOrder%20Sales%20Data%20Analytics%20(Python-SQL)">
     ➩3️⃣ 🚀 Retail Sales Analysis using Python & SQL
   </a>
 </h3>
@@ -84,7 +84,7 @@ Currently exploring **Generative-AI** to drive innovation.
 • Showcased expertise in Python, SQL, and ETL workflows, highlighting strong problem-solving and analytical skills.
   
 <h3>
-  <a href="https://github.com/RameshSabhavath/Insurance_Cost_Analysis">
+  <a href="https://github.com/RameshSabhavath/Python-Projects/tree/main/2.%20Medical%20Insurance%20Cost%20Prediction">
     ➩4️⃣ 🚀 Medical Insurance-Cost-Analysis
   </a>
 </h3>
@@ -100,8 +100,6 @@ Currently exploring **Generative-AI** to drive innovation.
 
 ## 📫 Connect With Me 
 ## 👨🏼‍💻 Let’s connect! Feel free to explore my work and reach out. 
-GitHub : [https://github.com/RameshSabhavath?tab=repositories](https://github.com/RameshSabhavath?tab=repositories)
 
-
-📧 Email :  [rameshsabhavath124@gmail.com ]( rameshsabhavath124@gmail.com)   
+📧 Email :  [rameshsabhavath123@gmail.com ]( rameshsabhavath124@gmail.com)   
 🔗 LinkedIn :  [https://www.linkedin.com/in/ramesh-sabhavath/](https://www.linkedin.com/in/ramesh-sabhavath/)
